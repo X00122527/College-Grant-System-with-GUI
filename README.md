@@ -10,4 +10,4 @@ Version with JavaFX:
 
 You can simply download .jar file [here](https://github.com/X00122527/College-Grant-System-with-GUI/tree/master/dist) and it should be ready to go.
 
-#Added folder with randomly created accounts.
+Added folder with randomly created accounts.
