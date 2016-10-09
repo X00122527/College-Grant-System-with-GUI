@@ -1,6 +1,6 @@
 # College-Grant-System-with-GUI
 
-Once ran, it creates user with username "admin" and password "admin". It also creates directory grant_app on Desktop with few other files inside it.
+Once ran, it creates a user with username "admin" and password "admin". It also creates directory grant_app on Desktop with few other files inside it.
 
 Version without GUI:
 
